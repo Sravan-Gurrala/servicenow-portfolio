@@ -1,0 +1,15 @@
+# Credentials and secrets
+.env
+*.env
+credentials.txt
+test-credentials.txt
+*.pem
+*.key
+token.txt
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
