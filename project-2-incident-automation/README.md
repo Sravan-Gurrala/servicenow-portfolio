@@ -34,8 +34,8 @@ graph TD
 - P2 Resolution Time: 8 Hour target, Starts on Priority 2, Stops when Resolved or Closed, Pauses on Hold.
 ## Component Screenshots
 ### Category Auto-Routing Result
-[Image: Assignment Result](./screenshots/03-assignment-rule-result.png)
+![Assignment Result](./screenshots/03-assignment-rule-result.png)
 ### Category Help Client Script
-[Image: Client Script](./screenshots/05-category-client-script.png)
+![Client Script](./screenshots/05-category-client-script.png)
 ### Active Task SLAs Running
-[Image: Task SLAs](./screenshots/07-task-sla-on-incident.png)
+![Task SLAs](./screenshots/07-task-sla-on-incident.png)
