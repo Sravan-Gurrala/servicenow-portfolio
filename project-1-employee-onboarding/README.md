@@ -38,12 +38,12 @@ graph TD
 - Task Generation: Automatically creates catalog tasks (sc_task) for HR Setup, IT Account creation, and conditional Hardware Provisioning.
 ## Component Screenshots
 ### Catalog Item Preview
-[Image: Catalog Form Preview](./screenshots/13-catalog-item-form-preview.png)
+![Catalog Form Preview](./Screenshots/13-catalog-item-form-preview.png)
 ### Client Script in Action
-[Image: Client Script](./screenshots/16-client-script-in-action.png)
+![Client Script](./Screenshots/16-client-script-in-action.png)
 ### Flow Designer Canvas
-[Image: Flow Canvas](./screenshots/17-flow-canvas.png)
+![Flow Canvas](./Screenshots/17-flow-canvas.png)
 ### Generated Catalog Tasks
-[Image: Catalog Tasks](./screenshots/24-ritm-task-generated.png)
+![Catalog Tasks](./Screenshots/24-ritm-task-generated.png)
 ## Exported Update Set
 - XML Location: ./update-sets/
