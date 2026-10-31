@@ -31,10 +31,10 @@ graph TD
 - Dashboard: Created IT Operations and HR Dashboard combining all 3 widgets on a responsive canvas.
 ## Component Screenshots
 ### Record Producer Output
-[Image: Record Producer](./screenshots/01-p4-record-producer-incident.png)
+![Record Producer](./screenshots/01-p4-record-producer-incident.png)
 ### Transform Map Coalesce Configuration
-[Image: Transform Coalesce](./screenshots/03-p4-transform-map-coalesce.png)
+![Transform Coalesce](./screenshots/03-p4-transform-map-coalesce.png)
 ### Import Execution Log
-[Image: Import Results](./screenshots/04-p4-import-results.png)
-### Executive Dashboard
-[Image: Dashboard](./screenshots/05-p4-executive-dashboard.png)
+![Import Results](./screenshots/04-p4-import-results.png)
+### Dashboard evidence
+The dashboard is described above; a dashboard screenshot is not currently included.
