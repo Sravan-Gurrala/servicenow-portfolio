@@ -29,10 +29,10 @@ graph TD
 - Data Policy (Server-Side): Enforces Reason as mandatory across Form UI, Excel Data Imports, and REST Web Services.
 ## Component Screenshots
 ### Studio Custom App Dashboard
-[Image: Studio App](./screenshots/01-p3-studio-app-created.png)
+![Studio App](./screenshots/01-p3-studio-app-created.png)
 ### Custom Tables Data Model
-[Image: Custom Tables](./screenshots/02-p3-custom-tables-created.png)
+![Custom Tables](./screenshots/02-p3-custom-tables-created.png)
 ### Dynamic Read ACL Security Rule
-[Image: Read ACL](./screenshots/03-p3-acl-read-rule.png)
+![Read ACL](./screenshots/03-p3-acl-read-rule.png)
 ### Live Form Behavior
-[Image: Leave Form](./screenshots/05-p3-leave-request-form.png)
+![Leave Form](./screenshots/05-p3-leave-request-form.png)
